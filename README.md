@@ -9,7 +9,7 @@ The payloads are deliberately harmless. They ask for a canary string or a link t
 ## Install
 
 ```bash
-git clone https://github.com/<you>/injectcheck && cd injectcheck
+git clone https://github.com/negafarming/injectcheck && cd injectcheck
 pip install -e ".[dev]"
 ```
 
